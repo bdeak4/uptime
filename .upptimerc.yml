@@ -7,10 +7,9 @@ sites:
 
 status-website:
   cname: uptime.bdeak.net
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: uptime
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/bdeak4/uptime
+      href: https://github.com/$OWNER/$REPO
