@@ -4,6 +4,8 @@ repo: uptime
 sites:
   - name: bdeak.net
     url: https://bdeak.net
+  - name: chatter
+    url: https://chatter.bdeak.net
 
 status-website:
   cname: uptime.bdeak.net
