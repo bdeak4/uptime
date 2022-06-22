@@ -1,5 +1,25 @@
 [
   {
+    "name": "chatter",
+    "url": "https://chatter.bdeak.net",
+    "icon": "https://favicons.githubusercontent.com/chatter.bdeak.net",
+    "slug": "chatter",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 1143,
+    "timeDay": 1328,
+    "timeWeek": 1143,
+    "timeMonth": 1143,
+    "timeYear": 1143,
+    "dailyMinutesDown": {
+      "2022-06-21": 17
+    }
+  },
+  {
     "name": "bdeak.net",
     "url": "https://bdeak.net",
     "icon": "https://favicons.githubusercontent.com/bdeak.net",
@@ -10,29 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 323,
-    "timeWeek": 168,
-    "timeMonth": 168,
-    "timeYear": 168,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "chatter.bdeak.net",
-    "url": "https://chatter.bdeak.net",
-    "icon": "https://favicons.githubusercontent.com/chatter.bdeak.net",
-    "slug": "chatter-bdeak-net",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 603,
-    "timeDay": 603,
-    "timeWeek": 603,
-    "timeMonth": 603,
-    "timeYear": 603,
+    "time": 165,
+    "timeDay": 263,
+    "timeWeek": 165,
+    "timeMonth": 165,
+    "timeYear": 165,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 516,
-    "timeDay": 516,
-    "timeWeek": 516,
-    "timeMonth": 516,
-    "timeYear": 516,
+    "time": 552,
+    "timeDay": 552,
+    "timeWeek": 552,
+    "timeMonth": 552,
+    "timeYear": 552,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 465,
-    "timeDay": 465,
-    "timeWeek": 465,
-    "timeMonth": 465,
-    "timeYear": 465,
+    "time": 522,
+    "timeDay": 522,
+    "timeWeek": 522,
+    "timeMonth": 522,
+    "timeYear": 522,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 697,
-    "timeDay": 697,
-    "timeWeek": 697,
-    "timeMonth": 697,
-    "timeYear": 697,
+    "time": 729,
+    "timeDay": 729,
+    "timeWeek": 729,
+    "timeMonth": 729,
+    "timeYear": 729,
     "dailyMinutesDown": {}
   }
 ]
