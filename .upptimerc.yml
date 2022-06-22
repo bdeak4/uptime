@@ -2,10 +2,10 @@ owner: bdeak4
 repo: uptime
 
 sites:
+  - name: chatter
+    url: https://chatter.bdeak.net
   - name: bdeak.net
     url: https://bdeak.net
-  - name: chatter.bdeak.net
-    url: https://chatter.bdeak.net
   - name: ludo.bdeak.net
     url: https://ludo.bdeak.net
   - name: postsandcomments.bdeak.net
