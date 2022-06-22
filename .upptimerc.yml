@@ -6,11 +6,11 @@ sites:
     url: https://chatter.bdeak.net
   - name: bdeak.net
     url: https://bdeak.net
-  - name: ludo.bdeak.net
+  - name: ludo
     url: https://ludo.bdeak.net
-  - name: postsandcomments.bdeak.net
+  - name: postsandcomments
     url: https://postsandcomments.bdeak.net
-  - name: menze.bdeak.net
+  - name: menze
     url: https://menze.bdeak.net
 
 status-website:
