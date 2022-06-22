@@ -4,8 +4,14 @@ repo: uptime
 sites:
   - name: bdeak.net
     url: https://bdeak.net
-  - name: chatter
+  - name: chatter.bdeak.net
     url: https://chatter.bdeak.net
+  - name: ludo.bdeak.net
+    url: https://ludo.bdeak.net
+  - name: postsandcomments.bdeak.net
+    url: https://postsandcomments.bdeak.net
+  - name: menze.bdeak.net
+    url: https://menze.bdeak.net
 
 status-website:
   cname: uptime.bdeak.net
