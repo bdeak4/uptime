@@ -78,19 +78,19 @@
     "url": "https://menze.bdeak.net",
     "icon": "https://favicons.githubusercontent.com/menze.bdeak.net",
     "slug": "menze",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 741,
-    "timeDay": 646,
-    "timeWeek": 723,
-    "timeMonth": 741,
-    "timeYear": 741,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 742,
+    "timeDay": 689,
+    "timeWeek": 729,
+    "timeMonth": 742,
+    "timeYear": 742,
     "dailyMinutesDown": {
-      "2022-07-15": 0
+      "2022-07-15": 39
     }
   }
 ]
