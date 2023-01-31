@@ -4,10 +4,10 @@
     "url": "https://chatter.bdeak.net",
     "icon": "https://icons.duckduckgo.com/ip3/chatter.bdeak.net.ico",
     "slug": "chatter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.91%",
     "time": 882,
@@ -16,6 +16,7 @@
     "timeMonth": 960,
     "timeYear": 882,
     "dailyMinutesDown": {
+      "2023-01-31": 0,
       "2023-01-25": 20,
       "2022-11-03": 165,
       "2022-07-18": 100,
@@ -27,9 +28,9 @@
     "url": "https://bdeak.net",
     "icon": "https://icons.duckduckgo.com/ip3/bdeak.net.ico",
     "slug": "bdeak-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -38,16 +39,18 @@
     "timeWeek": 102,
     "timeMonth": 120,
     "timeYear": 157,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-31": 0
+    }
   },
   {
     "name": "ludo",
     "url": "https://ludo.bdeak.net",
     "icon": "https://icons.duckduckgo.com/ip3/ludo.bdeak.net.ico",
     "slug": "ludo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,16 +59,18 @@
     "timeWeek": 87,
     "timeMonth": 87,
     "timeYear": 122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-31": 0
+    }
   },
   {
     "name": "postsandcomments",
     "url": "https://postsandcomments.bdeak.net",
     "icon": "https://icons.duckduckgo.com/ip3/postsandcomments.bdeak.net.ico",
     "slug": "postsandcomments",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,16 +79,18 @@
     "timeWeek": 92,
     "timeMonth": 125,
     "timeYear": 133,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-31": 0
+    }
   },
   {
     "name": "menze",
     "url": "https://menze.bdeak.net",
     "icon": "https://icons.duckduckgo.com/ip3/menze.bdeak.net.ico",
     "slug": "menze",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -93,6 +100,7 @@
     "timeMonth": 859,
     "timeYear": 830,
     "dailyMinutesDown": {
+      "2023-01-31": 0,
       "2023-01-25": 18,
       "2022-07-15": 39
     }
