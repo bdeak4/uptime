@@ -1,7 +1,7 @@
 url: https://chatter.bdeak.net
-status: up
-code: 200
-responseTime: 610
-lastUpdated: 2023-03-19T23:13:33.722Z
+status: down
+code: 500
+responseTime: 4722
+lastUpdated: 2023-03-20T16:43:52.411Z
 startTime: Wed Jun 22 2022 05:47:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
